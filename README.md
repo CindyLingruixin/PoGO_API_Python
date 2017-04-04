@@ -1,12 +1,12 @@
 [![Build Status](https://travis-ci.org/tejado/pgoapi.svg?branch=master)](https://travis-ci.org/tejado/pgoapi)
 
-# pgoapi - a pokemon go api lib in python
+# pgoapi - a Pokemon GO api lib in python
 pgoapi is a client/api/demo for Pokemon Go by https://github.com/tejado.  
-It allows automatic parsing of requests/responses by finding the correct protobuf objects over a naming convention and will return the response in a parsed python dictionary format.   
+It allows automatic parsing of requests/responses by finding the correct Protobuf objects over a naming convention and will return the response in a parsed python dictionary format.   
 
- * This is unofficial - USE AT YOUR OWN RISK !
- * I don't play pokemon go !
- * No bot/farming code included !
+ * This is unofficial - USE AT YOUR OWN RISK!
+ * I don't play Pokemon GO!
+ * No bot/farming code included!
 
 ## Feature Support
  * Python 2 and 3
@@ -32,7 +32,7 @@ Documentation is available at the github [pgoapi wiki](https://wiki.pogodev.org)
  * s2sphere (only for pokecli demo)
 
 ## Contribution
-Contributions are highly welcome. Please use github or [Discord](https://discord.pogodev.org) for it!
+Contributions are highly welcome. Please use Github or [Discord](https://discord.pogodev.org) for it!
 
 ## Credits
 [Mila432](https://github.com/Mila432/Pokemon_Go_API) for the login secrets  
